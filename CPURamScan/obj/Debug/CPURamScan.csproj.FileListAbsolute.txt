@@ -1,0 +1,7 @@
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\bin\Debug\CPURamScan.exe.config
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\bin\Debug\CPURamScan.exe
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\bin\Debug\CPURamScan.pdb
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\obj\Debug\CPURamScan.csprojResolveAssemblyReference.cache
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\obj\Debug\CPURamScan.csproj.CoreCompileInputs.cache
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\obj\Debug\CPURamScan.exe
+F:\Google 雲端硬碟\[研發替代役]學習日誌\程式語言\C#\CPURamScan_20190811\CPURamScan\CPURamScan\obj\Debug\CPURamScan.pdb
